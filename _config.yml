@@ -8,13 +8,13 @@ locale                   : "en-US"
 title                    : "Serhat Turkmen"
 title_separator          : "-"
 subtitle                 : "Aquaculture, Fish Nutrition, Nutritional Programming, Epigenetics"
-name                     : "Serhat Turkmen"
-description              : "Aquaculture, Fish Nutrition, Nutritional Programming, Epigenetics"
+# name                     : "Serhat Turkmen"
+# description              : "Aquaculture, Fish Nutrition, Nutritional Programming, Epigenetics"
 url                      : "https://s3rhat.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "s3rhat/s3rhat.github.io"
 teaser                   : "assets/images/GettyImages-495295094.jpg" 
-logo                     : "/assets/images/profile.png"
+# logo                     : "/assets/images/profile.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
