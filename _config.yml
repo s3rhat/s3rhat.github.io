@@ -12,7 +12,7 @@ name                     : "Serhat Turkmen"
 description              : "Aquaculture, Fish Nutrition, Nutritional Programming, Epigenetics"
 url                      : "https://s3rhat.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "s3rhat/s3rhat.github.io"
 teaser                   : "assets/images/GettyImages-495295094.jpg" 
 logo                     : "/assets/images/profile.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
