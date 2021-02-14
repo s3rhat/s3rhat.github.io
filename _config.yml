@@ -7,7 +7,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Serhat Turkmen"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Aquaculture, Fish Nutrition, Nutritional Programming, Epigenetics"
 name                     : "Serhat Turkmen"
 description              : "Aquaculture, Fish Nutrition, Nutritional Programming, Epigenetics"
 url                      : "https://s3rhat.github.io"
