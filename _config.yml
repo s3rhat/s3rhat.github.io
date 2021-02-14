@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Serhat Turkmen"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/profile.png"
   bio              : "Postdoc. Aquaculture, Fish Nutrition, Nutritional Programming, Epigenetics"
   location         : "Birmingham, AL, USA"
   email            : turkmen@uab.edu
