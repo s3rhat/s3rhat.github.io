@@ -60,7 +60,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : turkmens
 facebook:
   username               :
   app_id                 :
@@ -83,21 +83,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Serhat Turkmen"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Postdoc. Aquaculture, Fish Nutrition, Nutritional Programming, Epigenetics"
+  location         : "Birmingham, AL, USA"
+  email            : turkmen@uab.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:turkmen@uab.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/turkmens"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -113,7 +113,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/turkmens"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
